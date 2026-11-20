@@ -1,4 +1,4 @@
-# Hey, I'm Ebube 👋
+# Hey, I'm Ebube 👋🏽
 
 **Frontend Developer | React.js | TypeScript**
 
