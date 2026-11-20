@@ -9,11 +9,16 @@ I build responsive web applications and enjoy turning ideas into clean, function
 - Based in Lagos, Nigeria 🇳🇬
 - Frontend Developer at Infrafocus Technologies.
 - Experienced in building reusable components, integrating APIs and improving web applications.
-- Currently exploring frontend testing and better development practices.
 
 ### Tech Stack
 
 **JavaScript · TypeScript · React.js · HTML5 · CSS3 · Tailwind CSS · Vite · Git · GitHub**
+
+### Currently
+
+- Improving my React.js and TypeScript skills.
+- Exploring frontend testing.
+- Building projects and strengthening my portfolio.
 
 ### Connect
 
