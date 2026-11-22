@@ -18,6 +18,7 @@ I build responsive web applications and enjoy turning ideas into clean, function
 
 - Improving my React.js and TypeScript skills.
 - Exploring frontend testing.
+- Exploring DevOps practices, Kubernetes and cloud-native technologies.
 - Building projects and strengthening my portfolio.
 
 ### Connect
